@@ -5,9 +5,9 @@
 I developed an embedded system that generates distance-based warnings using Arduino, an HC-SR04 ultrasonic distance sensor, and a buzzer. By establishing a C++ based software logic that converts sound wave travel times from the sensor into distance, I created a dynamic frequency audio alert mechanism.
 
 ### Features
-Real-time distance measurement using an ultrasonic sensor
-Optimized C++ algorithms converting sound wave durations into centimeters
-Dynamic frequency buzzer alert mechanism responding to measured distances
+- Real-time distance measurement using an ultrasonic sensor
+- Optimized C++ algorithms converting sound wave durations into centimeters
+- Dynamic frequency buzzer alert mechanism responding to measured distances
 
 
 # Engel Algılama ve Uyarı Sistemi 
